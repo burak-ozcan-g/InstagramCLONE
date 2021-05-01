@@ -71,7 +71,7 @@ public class FollowersActivity extends AppCompatActivity {
             case "Takip":
                 getFollowing();
                 break;
-            case "Beğeni":
+            case "Beğeniler":
                 getLikes();
                 break;
         }

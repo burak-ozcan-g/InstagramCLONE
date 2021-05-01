@@ -176,7 +176,7 @@ public class PostAdapter extends RecyclerView.Adapter<PostAdapter.ViewHolder> {
                 Intent intent = new Intent(mContext, FollowersActivity.class);
                 intent.putExtra("postId", post.getPostid());
                 intent.putExtra("id", post.getPublisher());
-                intent.putExtra("title", "Beğeni");
+                intent.putExtra("title", "Beğeniler");
                 mContext.startActivity(intent);
             }
         });

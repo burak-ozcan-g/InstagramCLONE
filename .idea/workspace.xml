@@ -46,7 +46,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/InstagramCLONE" />
+    <option name="PATH_TO_GIT" value="D:\Android\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rJXfcspcDI7ZbIwmOhGDTdwNpf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,7 +61,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.-1405194743">
@@ -196,10 +197,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="542" y="214" key="AndroidCreateXmlResourceDialog/0.0.1366.768@0.0.1366.768" timestamp="1619790856949" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1619871460560">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1619872121208">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1619871460560" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1619872121208" />
     <state width="1323" height="370" key="GridCell.Tab.0.bottom" timestamp="1619871628653">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -216,10 +217,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="370" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1619871628653" />
-    <state x="184" y="26" key="SettingsEditor" timestamp="1619016295453">
+    <state x="184" y="26" key="SettingsEditor" timestamp="1619872128496">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1619016295453" />
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1619872128496" />
     <state x="499" y="162" key="chooseDestDirectoryDialog" timestamp="1619715675461">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
